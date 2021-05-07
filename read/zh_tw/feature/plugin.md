@@ -53,4 +53,4 @@ grand_parent: zh_tw
 | liuchengxu / [eleline.vim](https://github.com/liuchengxu/eleline.vim) | |
 | liuchengxu / [vista.vim](https://github.com/liuchengxu/vista.vim) | |
 | neoclide / [coc.vim](https://github.com/neoclide/coc.nvim) | |
-| neoclide / [vim-snippets](https://github.com/honza/vim-snippets) | |
+| honza / [vim-snippets](https://github.com/honza/vim-snippets) | |
