@@ -1,6 +1,6 @@
 ---
-title: feature
-nav_order: 1010
+title: Feature
+nav_order: 1020
 has_children: true
 parent: en_us
 ---
