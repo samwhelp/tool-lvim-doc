@@ -7,4 +7,5 @@
 ## Link
 
 * [tool-lvim](https://github.com/samwhelp/tool-lvim)
+* [tool-lvim-gen](https://github.com/samwhelp/tool-lvim-gen)
 * note-about-vim / [lvim](https://samwhelp.github.io/note-about-vim/read/project/lvim.html)
