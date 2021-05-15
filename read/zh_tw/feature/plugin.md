@@ -54,3 +54,4 @@ grand_parent: zh_tw
 | liuchengxu / [vista.vim](https://github.com/liuchengxu/vista.vim) | |
 | neoclide / [coc.vim](https://github.com/neoclide/coc.nvim) | |
 | honza / [vim-snippets](https://github.com/honza/vim-snippets) | |
+| ntpeters / [vim-better-whitespace](https://github.com/ntpeters/vim-better-whitespace) | |
